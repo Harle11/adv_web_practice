@@ -1,0 +1,23 @@
+Git Commands
+
+git --version		--> git version check
+
+git config --global user.name "Your name"		--> configuring username
+
+git config --global user.email "Your email address"		--> configuring email
+
+git config --list		--> check global config
+
+git init
+
+git status
+
+git add .
+
+git pull
+
+git push
+
+git clone "repo"
+
+git commit
