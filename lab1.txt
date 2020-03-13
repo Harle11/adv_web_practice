@@ -1,0 +1,21 @@
+Let doesn not allow variable declaration like var.(no duplication)
+
+////// Email in website contact us: constant
+
+Q. Set and display date,time, name, no of tickets, 
+price of the ticket for  a customer who has booked
+ tickets for a movie to be screened in a specific
+ auditorium.
+movie name: constant, audi constant.
+
+concatenation: + or`(tick)operator
+`${variable}
+
+comments // and /*...*/
+
+we cannot use any other operator other than + with string
+
+local scope and globalscope is imp
+var is not allowed in function argument
+hoisting of variable: dynamically type
+
