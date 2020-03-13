@@ -4,4 +4,4 @@ console.log(val)
 
 function retStr(){
     return "Hello World!!";
-} //// define anywhere it doesnt matter
+} // define anywhere it doesnt matter

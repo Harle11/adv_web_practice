@@ -8,5 +8,5 @@ console.log("x is hoisted to the function scope");// we get single ans, we can d
 }
 main();
 
-// anonymus function.
+// anonymous function.
 //it can act as variable name and function name

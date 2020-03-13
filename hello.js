@@ -1,4 +1,4 @@
 console.log("Hello World")
-console.log("Our first program")
-var x="Anamika"
+console.log("My first program")
+var x="Shreyas Harle"
 console.log(x)

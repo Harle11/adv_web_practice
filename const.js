@@ -1,3 +1,4 @@
+//assigining to constant will give error
 var pizza=true
 pizza=false
 console.log(pizza)

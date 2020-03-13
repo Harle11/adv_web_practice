@@ -1,3 +1,4 @@
+//to show function
 function test()
 {
     var num=100;
@@ -19,9 +20,9 @@ var b=40
 console.log(b)
 function d(){
     let b=20
-    console.log(b)
-
+    console.log(b) //should print 20
 }
 a=30
 console.log(a)
 d()
+console.log(b) //should print 40
